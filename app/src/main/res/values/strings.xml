@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Ex7</string>
+    <string name="intro">Hello, this app will demonstrate the transfer to a seccond activity and sending results back to this one. Press the button to start.</string>
+    <string name="button">Register</string>
+    <string name="fn">First Name:</string>
+    <string name="ln">Last Name:</string>
+    <string name="ml">Male</string>
+    <string name="fl">Female</string>
+    <string name="bt">Send Back</string>
+
+
+
+
+
 </resources>
