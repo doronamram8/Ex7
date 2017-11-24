@@ -7,6 +7,11 @@
     <string name="ml">Male</string>
     <string name="fl">Female</string>
     <string name="bt">Send Back</string>
+    <string name="back">Welcome back %1$s ,%2$s ,%3$s</string>
+    <string name="bt2">again...</string>
+
+
+
 
 
 
